@@ -1,0 +1,48 @@
+The number of cards left in the stock pile: 50
+The number of completed decks: 0
+0: _ 3 K Q J 10 9 8 7 6 5 4 3 2 A
+1: _ _ _ _ _ 10
+2: _ _ _ _ _ 3
+3: _ _ _ _ _ 9
+4: _ _ _ _ A
+5: _ _ _ _ 6
+6: _ _ _ _ J
+7: _ _ _ _ 3
+8: _ _ _ _ 8
+9: _ _ _ _ K
+The number of cards left in the stock pile: 50
+The number of completed decks: 1
+0: _ 3
+1: _ _ _ _ _ 10 9
+2: _ _ _ _ _ 3
+3: _ _ _ _ 8
+4: _ _ _ _ A
+5: _ _ _ _ 6
+6: _ _ _ _ J
+7: _ _ _ _ 3
+8: _ _ _ _ 8
+9: _ _ _ _ K
+The number of cards left in the stock pile: 50
+The number of completed decks: 1
+0: _ 3
+1: _ _ _ _ _ 10 9
+2: _ _ _ _ _ 3
+3: _ _ _ _ 8
+4: _ _ _ _ A
+5: _ _ _ _ 6
+6: _ _ _ _ J
+7: _ _ _ _ 3
+8: _ _ _ _ 8
+9: _ _ _ _ K
+The number of cards left in the stock pile: 50
+The number of completed decks: 1
+0: _ 3
+1: _ _ _ _ _ 10 9 8
+2: _ _ _ _ _ 3
+3: _ _ _ 7
+4: _ _ _ _ A
+5: _ _ _ _ 6
+6: _ _ _ _ J
+7: _ _ _ _ 3
+8: _ _ _ _ 8
+9: _ _ _ _ K
