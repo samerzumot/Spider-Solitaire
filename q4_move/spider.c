@@ -196,11 +196,6 @@ bool read_card(int *card_read) {
   exit(1);
 }
 
-void spider_print_faceup(struct spider *s) {
-  assert(s);
-  // Replace the code below with your implementation.
-  printf("spider_print_faceup has not been implemented yet.\n");
-}
 
 // stack_len(a) returns the length of a given stack 
 // using the stack_pop function
