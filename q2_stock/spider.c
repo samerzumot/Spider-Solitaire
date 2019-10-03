@@ -148,13 +148,6 @@ bool spider_has_won(const struct spider *s) {
 }
 
 //=========================================================
-// The function implemnetations above are provided.  
-// Do not modify them.
-//=========================================================
-
-//=========================================================
-// Implement the functions below.
-//=========================================================
 
 
 // read_card(card_read) reads at most two characters representing
